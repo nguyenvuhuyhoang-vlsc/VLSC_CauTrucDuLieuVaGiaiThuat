@@ -1,0 +1,13 @@
+D:\VLSC_CauTrucDuLieuVaGiaiPhau\DSA_Session07_Bacis\obj\Debug\netcoreapp3.1\DSA_Session07_Bacis.csprojAssemblyReference.cache
+D:\VLSC_CauTrucDuLieuVaGiaiPhau\DSA_Session07_Bacis\obj\Debug\netcoreapp3.1\DSA_Session07_Bacis.AssemblyInfoInputs.cache
+D:\VLSC_CauTrucDuLieuVaGiaiPhau\DSA_Session07_Bacis\obj\Debug\netcoreapp3.1\DSA_Session07_Bacis.AssemblyInfo.cs
+D:\VLSC_CauTrucDuLieuVaGiaiPhau\DSA_Session07_Bacis\obj\Debug\netcoreapp3.1\DSA_Session07_Bacis.csproj.CoreCompileInputs.cache
+D:\VLSC_CauTrucDuLieuVaGiaiPhau\DSA_Session07_Bacis\bin\Debug\netcoreapp3.1\DSA_Session07_Bacis.exe
+D:\VLSC_CauTrucDuLieuVaGiaiPhau\DSA_Session07_Bacis\bin\Debug\netcoreapp3.1\DSA_Session07_Bacis.deps.json
+D:\VLSC_CauTrucDuLieuVaGiaiPhau\DSA_Session07_Bacis\bin\Debug\netcoreapp3.1\DSA_Session07_Bacis.runtimeconfig.json
+D:\VLSC_CauTrucDuLieuVaGiaiPhau\DSA_Session07_Bacis\bin\Debug\netcoreapp3.1\DSA_Session07_Bacis.runtimeconfig.dev.json
+D:\VLSC_CauTrucDuLieuVaGiaiPhau\DSA_Session07_Bacis\bin\Debug\netcoreapp3.1\DSA_Session07_Bacis.dll
+D:\VLSC_CauTrucDuLieuVaGiaiPhau\DSA_Session07_Bacis\bin\Debug\netcoreapp3.1\DSA_Session07_Bacis.pdb
+D:\VLSC_CauTrucDuLieuVaGiaiPhau\DSA_Session07_Bacis\obj\Debug\netcoreapp3.1\DSA_Session07_Bacis.dll
+D:\VLSC_CauTrucDuLieuVaGiaiPhau\DSA_Session07_Bacis\obj\Debug\netcoreapp3.1\DSA_Session07_Bacis.pdb
+D:\VLSC_CauTrucDuLieuVaGiaiPhau\DSA_Session07_Bacis\obj\Debug\netcoreapp3.1\DSA_Session07_Bacis.genruntimeconfig.cache
